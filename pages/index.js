@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Thays, eu amo você. Se você me ama, da um sorrisinho 😄💖</h1>;
+  return <h1>Esse é um ato de coragem 😄💖</h1>;
 }
 
 function teste() {
